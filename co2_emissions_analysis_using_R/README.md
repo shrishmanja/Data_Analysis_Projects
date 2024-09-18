@@ -1,6 +1,6 @@
 # CO2 Emissions by European Cities: An Exploratory Data Analysis
 
-## Project Overview -
+## Project Overview
 This project was undertaken at my time of being an MSc Data Analytics Student at the University of Strathclyde 
 Focusing on analyzing CO2 emissions across various European cities, the urpose of this project through exploratory analysis was to gain an overview of a dataset, including insights into its limitations,and to develop a good set of hypotheses to test carefully with statistical modelling using R Studio.
 
