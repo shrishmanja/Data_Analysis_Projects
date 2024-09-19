@@ -21,4 +21,4 @@ as possible.
 2. **Data Exploration**: Analyzing sales trends, discount campaign effectiveness, and customer demographics.
 3. **Visualization**: Creating various plots to display sales trends, product category contributions, and discount campaign usage.
 
-##### *It is important to note that this is not a real dataset. This is a synthetic dataset geenrated for the purpose of learning.
+##### *It is important to note that this is not a real dataset. This is a synthetic dataset generated for the purpose of learning.
