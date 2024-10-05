@@ -6,7 +6,7 @@ The goal of this project is to identify the top 10 customers who have rented the
 #### SQL Skills Applied
 `SELECT`, `JOIN`, `GROUP BY`, `COUNT`, `ORDER BY`, `LIMIT`
 
-## Approach Taken
+#### Approach Taken
 1. Identify the table data across customer and rental table to identify foreign and primary key as well as the most relevant attributes to the problem statememt
 2. Using the Select and From function, visualise the tables
 3. Develop a SQL query using the Join function to merge both table values and call out column values common to both tables
@@ -14,5 +14,5 @@ The goal of this project is to identify the top 10 customers who have rented the
 5. Order the result in descending order on the the rental count column to find the top 10 customers.
 6. Lastly, limit the results to the top 10 customers using the Limit Function.
 
-## Files Included:
+#### Files Included:
 Readme, SQL Query, Results_Csv
