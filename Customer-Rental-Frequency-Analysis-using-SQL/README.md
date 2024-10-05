@@ -14,5 +14,5 @@ The goal of this project is to identify the top 10 customers who have rented the
 5. Order the result in descending order on the the rental count column to find the top 10 customers.
 6. Lastly, limit the results to the top 10 customers using the Limit Function.
 
-#### Files Included:
+#### Files Included
 Readme, SQL Query, Results_Csv
